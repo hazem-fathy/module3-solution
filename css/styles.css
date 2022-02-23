@@ -1,0 +1,57 @@
+*{
+    font-family: Oxygen;
+    font-size: 1.1em;
+}
+#brandid{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 0;
+    text-align: left;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+.container{
+    width: 100%;
+}
+section{
+    height: 1000px;
+    background-color: lightgray;
+overflow-x: auto;
+}
+/* #collapsable-nav>#nav-list{
+    float: both;
+    width: 100%;
+    align-content: center;
+} */
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+
+#nav-list{
+    background-color: white;
+}
+ul{
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+li{
+    border-bottom: 1px solid black;
+    
+}
+#collapsable-nav{
+    margin-top: 15px;
+    width: 100%;
+    text-align: center;
+}
+p{
+    padding: 15px;
+    
+}
